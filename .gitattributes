@@ -1,2 +1,0 @@
-generator/docs text !filter !merge !diff
-docs/**/* text !filter !merge !diff
